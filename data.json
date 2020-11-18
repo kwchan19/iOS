@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "name": "Balcony Level Ticket 12",
       "price": 1170
@@ -12,5 +11,5 @@
       "name": "Courtside 15",
       "price": 27777
     }
-  ]
-}
+]
+
